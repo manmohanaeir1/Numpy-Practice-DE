@@ -1,0 +1,8 @@
+
+For opening ./ starting jupyter 
+
+source ~/jupyter_env/bin/activate
+jupyter notebook
+
+
+
